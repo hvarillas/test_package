@@ -1,1 +1,1 @@
-from .logger import MonkeyLogger
+from ._logger import MonkeyLogger
